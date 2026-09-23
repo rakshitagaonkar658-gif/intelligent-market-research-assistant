@@ -1,0 +1,200 @@
+[
+  {
+    "id": 1,
+    "title": "IBM Launches Granite 3.0: Next-Generation AI Models for Enterprise",
+    "source": "TechCrunch",
+    "published_at": "2024-11-15",
+    "description": "IBM has unveiled Granite 3.0, a family of open-source enterprise AI models offering improved reasoning, coding, and multilingual capabilities. The new models achieve state-of-the-art performance on several benchmarks while being significantly more efficient than previous generations.",
+    "url": "https://techcrunch.com/sample/ibm-granite-3",
+    "category": "AI",
+    "sentiment": "positive",
+    "relevance_score": 0.95
+  },
+  {
+    "id": 2,
+    "title": "Global AI Market to Reach $1.8 Trillion by 2030, Report Finds",
+    "source": "Reuters",
+    "published_at": "2024-11-10",
+    "description": "A new report by McKinsey Global Institute forecasts the global AI market will expand to $1.8 trillion by 2030, driven by enterprise adoption, generative AI applications, and increased investment in AI infrastructure across healthcare, finance, and manufacturing sectors.",
+    "url": "https://reuters.com/sample/ai-market-2030",
+    "category": "AI",
+    "sentiment": "positive",
+    "relevance_score": 0.93
+  },
+  {
+    "id": 3,
+    "title": "Cloud Spending Surges 28% YoY as Enterprises Accelerate Digital Transformation",
+    "source": "Forbes",
+    "published_at": "2024-11-08",
+    "description": "Enterprise cloud spending grew 28% year-over-year in Q3 2024, with AWS, Azure, and Google Cloud all reporting record revenues. The growth is primarily driven by AI workloads, data analytics, and hybrid cloud deployments.",
+    "url": "https://forbes.com/sample/cloud-spending-q3",
+    "category": "Cloud",
+    "sentiment": "positive",
+    "relevance_score": 0.88
+  },
+  {
+    "id": 4,
+    "title": "Fintech Startups Raise $12B in Q3 2024 Despite Tighter Funding Environment",
+    "source": "Financial Times",
+    "published_at": "2024-11-05",
+    "description": "Despite a challenging macroeconomic environment, fintech startups globally raised $12 billion in Q3 2024. Payment infrastructure, embedded finance, and AI-powered fraud detection attracted the most investment, signalling sustained confidence in financial technology innovation.",
+    "url": "https://ft.com/sample/fintech-q3-funding",
+    "category": "Fintech",
+    "sentiment": "neutral",
+    "relevance_score": 0.86
+  },
+  {
+    "id": 5,
+    "title": "E-Commerce Sales Hit Record $6.3 Trillion Globally in 2024",
+    "source": "Bloomberg",
+    "published_at": "2024-11-03",
+    "description": "Global e-commerce sales are on track to reach $6.3 trillion in 2024, a 9% increase over 2023. Mobile commerce now accounts for 62% of all e-commerce transactions, while social commerce platforms like TikTok Shop and Instagram Shopping are driving significant new buyer acquisition.",
+    "url": "https://bloomberg.com/sample/ecommerce-2024",
+    "category": "E-commerce",
+    "sentiment": "positive",
+    "relevance_score": 0.85
+  },
+  {
+    "id": 6,
+    "title": "Cybersecurity Breaches Cost Enterprises $4.88M on Average in 2024",
+    "source": "Wall Street Journal",
+    "published_at": "2024-10-28",
+    "description": "IBM Security's annual Cost of a Data Breach Report reveals the average cost of a data breach reached $4.88 million in 2024, a 10% increase from 2023. AI-powered attacks, ransomware, and supply chain compromises are the leading causes of the most costly incidents.",
+    "url": "https://wsj.com/sample/breach-cost-2024",
+    "category": "Cybersecurity",
+    "sentiment": "negative",
+    "relevance_score": 0.90
+  },
+  {
+    "id": 7,
+    "title": "Microsoft Azure OpenAI Service Adoption Doubles Among Fortune 500",
+    "source": "CNBC",
+    "published_at": "2024-10-25",
+    "description": "Microsoft reported that Azure OpenAI Service adoption among Fortune 500 companies doubled in the past six months. Over 65% of Fortune 500 companies now use at least one Azure AI service, with Copilot integrations driving the majority of new enterprise deployments.",
+    "url": "https://cnbc.com/sample/azure-openai-fortune500",
+    "category": "AI",
+    "sentiment": "positive",
+    "relevance_score": 0.88
+  },
+  {
+    "id": 8,
+    "title": "Open-Source AI Models Gain Ground as Enterprises Seek Flexibility",
+    "source": "VentureBeat",
+    "published_at": "2024-10-22",
+    "description": "A survey of 500 enterprise technology leaders found that 58% now deploy open-source AI models in production, up from 32% a year ago. IBM Granite, Meta Llama, and Mistral are the most commonly cited models, with data privacy and cost control as the primary drivers.",
+    "url": "https://venturebeat.com/sample/open-source-ai-enterprise",
+    "category": "AI",
+    "sentiment": "positive",
+    "relevance_score": 0.87
+  },
+  {
+    "id": 9,
+    "title": "Stripe Launches AI-Powered Revenue Optimisation Suite for Merchants",
+    "source": "TechCrunch",
+    "published_at": "2024-10-18",
+    "description": "Stripe has introduced a new AI-powered revenue optimisation suite that uses machine learning to reduce cart abandonment, optimise checkout flows, and dynamically adjust pricing. Early adopters report a 12-18% uplift in conversion rates.",
+    "url": "https://techcrunch.com/sample/stripe-ai-revenue",
+    "category": "Fintech",
+    "sentiment": "positive",
+    "relevance_score": 0.84
+  },
+  {
+    "id": 10,
+    "title": "Retail Giant Amazon Reports 22% Growth in AWS but Faces Margin Pressure",
+    "source": "Reuters",
+    "published_at": "2024-10-15",
+    "description": "Amazon's Q3 2024 earnings showed AWS revenue growing 22% year-over-year to $27.4 billion, though margins came under pressure from heavy AI infrastructure investment. The company announced a $10 billion expansion of its data centre capacity to meet surging AI demand.",
+    "url": "https://reuters.com/sample/amazon-q3-2024",
+    "category": "Cloud",
+    "sentiment": "neutral",
+    "relevance_score": 0.83
+  },
+  {
+    "id": 11,
+    "title": "Generative AI Adoption in Financial Services Accelerates Despite Regulatory Scrutiny",
+    "source": "Financial Times",
+    "published_at": "2024-10-12",
+    "description": "Major banks including JPMorgan, Goldman Sachs, and HSBC are expanding generative AI deployments despite growing regulatory attention. Use cases include document summarisation, risk assessment, customer service automation, and fraud detection, with banks reporting 20-30% efficiency gains.",
+    "url": "https://ft.com/sample/genai-fintech-regulation",
+    "category": "Fintech",
+    "sentiment": "neutral",
+    "relevance_score": 0.86
+  },
+  {
+    "id": 12,
+    "title": "CrowdStrike Outage Highlights Fragility of Concentrated Cybersecurity Supply Chain",
+    "source": "Wired",
+    "published_at": "2024-10-08",
+    "description": "Analysis of the July 2024 CrowdStrike outage that disrupted 8.5 million Windows devices reveals systemic risks in concentrated cybersecurity supply chains. Enterprises are now accelerating multi-vendor strategies and demanding stronger vendor update testing protocols.",
+    "url": "https://wired.com/sample/crowdstrike-analysis",
+    "category": "Cybersecurity",
+    "sentiment": "negative",
+    "relevance_score": 0.91
+  },
+  {
+    "id": 13,
+    "title": "TikTok Shop Captures 5% of US E-Commerce Market in First Year",
+    "source": "Bloomberg",
+    "published_at": "2024-10-05",
+    "description": "TikTok Shop has captured approximately 5% of the US e-commerce market in its first full year of operation, outperforming analyst expectations. The platform's algorithm-driven discovery model and seamless in-app purchasing are challenging established players like Amazon and Shopify.",
+    "url": "https://bloomberg.com/sample/tiktok-shop-us",
+    "category": "E-commerce",
+    "sentiment": "positive",
+    "relevance_score": 0.85
+  },
+  {
+    "id": 14,
+    "title": "AI Chip Demand Drives NVIDIA Revenue to Record $35.1B in Q2 FY2025",
+    "source": "CNBC",
+    "published_at": "2024-09-28",
+    "description": "NVIDIA reported record quarterly revenue of $35.1 billion, driven by insatiable demand for H100 and H200 GPUs from hyperscalers and AI startups. The company's data centre segment grew 154% year-over-year, reflecting the massive infrastructure buildout underway across the AI industry.",
+    "url": "https://cnbc.com/sample/nvidia-q2-fy2025",
+    "category": "AI",
+    "sentiment": "positive",
+    "relevance_score": 0.92
+  },
+  {
+    "id": 15,
+    "title": "Quantum Computing Startup IonQ Secures $500M to Accelerate Commercial Deployment",
+    "source": "Forbes",
+    "published_at": "2024-09-20",
+    "description": "IonQ announced a $500 million funding round led by SoftBank Vision Fund to accelerate the commercialisation of its trapped-ion quantum computing platform. The company targets financial modelling, drug discovery, and logistics optimisation as its first large-scale commercial use cases.",
+    "url": "https://forbes.com/sample/ionq-funding",
+    "category": "AI",
+    "sentiment": "positive",
+    "relevance_score": 0.80
+  },
+  {
+    "id": 16,
+    "title": "BNPL Services Face Regulatory Crackdown Across EU and US Markets",
+    "source": "Financial Times",
+    "published_at": "2024-09-15",
+    "description": "Buy-now-pay-later providers including Klarna, Affirm, and Afterpay face tightening regulations in both the EU and US. New rules require affordability checks, clear disclosure of fees, and limits on late payment charges, prompting significant business model adjustments.",
+    "url": "https://ft.com/sample/bnpl-regulation",
+    "category": "Fintech",
+    "sentiment": "negative",
+    "relevance_score": 0.82
+  },
+  {
+    "id": 17,
+    "title": "Google Cloud Next 2024: Vertex AI Gains Multi-Modal and Agent Builder Capabilities",
+    "source": "TechCrunch",
+    "published_at": "2024-09-10",
+    "description": "At Google Cloud Next 2024, Google announced major enhancements to Vertex AI including multi-modal capabilities, an Agent Builder for creating autonomous AI agents, and new integrations with Workspace productivity tools. The announcements position Google Cloud as a strong competitor in the enterprise AI platform market.",
+    "url": "https://techcrunch.com/sample/google-cloud-next-2024",
+    "category": "Cloud",
+    "sentiment": "positive",
+    "relevance_score": 0.87
+  },
+  {
+    "id": 18,
+    "title": "Supply Chain AI Adoption Surges as Retailers Prepare for Holiday Season",
+    "source": "Reuters",
+    "published_at": "2024-09-05",
+    "description": "Major retailers including Walmart, Target, and Best Buy are deploying AI-powered supply chain optimisation tools ahead of the 2024 holiday season. AI models are being used for demand forecasting, inventory positioning, and logistics routing, with early adopters reporting 15-25% reductions in out-of-stock incidents.",
+    "url": "https://reuters.com/sample/retail-ai-supply-chain",
+    "category": "E-commerce",
+    "sentiment": "positive",
+    "relevance_score": 0.84
+  }
+]

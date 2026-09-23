@@ -1,0 +1,177 @@
+[
+  {
+    "id": 1,
+    "name": "TechAlpha Corp",
+    "market_share": 28.5,
+    "market_share_prev": 26.2,
+    "founded": 2012,
+    "hq": "San Francisco, CA",
+    "revenue_bn": 14.2,
+    "employees": 18500,
+    "strengths": [
+      "Dominant brand recognition in enterprise AI",
+      "Extensive partner ecosystem with 3,000+ ISVs",
+      "Strong R&D pipeline with 450+ AI patents",
+      "Proven reliability: 99.99% SLA across all cloud regions"
+    ],
+    "weaknesses": [
+      "Premium pricing limits SMB penetration",
+      "Legacy product integration complexity",
+      "Slower release cadence compared to cloud-native rivals",
+      "Limited presence in APAC emerging markets"
+    ],
+    "recent_activities": [
+      "Acquired DataSense AI for $1.2B in October 2024",
+      "Launched TechAlpha Cloud AI Platform v4.0 with agentic capabilities",
+      "Signed 5-year deal with US Department of Defense worth $800M",
+      "Expanded European data centres in Frankfurt and Amsterdam"
+    ],
+    "pricing": {
+      "entry_plan": "$499/month",
+      "professional_plan": "$1,999/month",
+      "enterprise_plan": "Custom — avg $85,000/year"
+    },
+    "key_products": ["TechAlpha AI Studio", "TechAlpha Cloud Platform", "DataSense Analytics"],
+    "growth_strategy": "Vertical AI solutions for healthcare, finance, and manufacturing"
+  },
+  {
+    "id": 2,
+    "name": "NovaTech Solutions",
+    "market_share": 21.3,
+    "market_share_prev": 19.8,
+    "founded": 2015,
+    "hq": "Austin, TX",
+    "revenue_bn": 8.7,
+    "employees": 12200,
+    "strengths": [
+      "Best-in-class developer experience and API documentation",
+      "Aggressive open-source community engagement",
+      "Fastest model iteration cycle in the industry (30-day release cadence)",
+      "Competitive mid-market pricing"
+    ],
+    "weaknesses": [
+      "Smaller enterprise sales force than top-tier competitors",
+      "Limited dedicated compliance and regulatory support",
+      "Brand still maturing in financial services verticals",
+      "Fewer data centre regions (12 vs competitors' 25+)"
+    ],
+    "recent_activities": [
+      "Released NovaTech LLM 3.5 achieving top-5 MMLU benchmark scores",
+      "Announced strategic partnership with Salesforce for CRM AI integrations",
+      "Raised $650M Series E at $9.1B valuation",
+      "Launched developer certification programme with 50,000 enrolments in first month"
+    ],
+    "pricing": {
+      "entry_plan": "$299/month",
+      "professional_plan": "$1,199/month",
+      "enterprise_plan": "Custom — avg $55,000/year"
+    },
+    "key_products": ["NovaLLM", "NovaDeploy", "NovaInsights"],
+    "growth_strategy": "Developer-led growth with land-and-expand enterprise motion"
+  },
+  {
+    "id": 3,
+    "name": "Apex Digital Systems",
+    "market_share": 17.8,
+    "market_share_prev": 18.9,
+    "founded": 2008,
+    "hq": "Chicago, IL",
+    "revenue_bn": 11.3,
+    "employees": 22000,
+    "strengths": [
+      "Deep vertical expertise in banking and insurance",
+      "Strongest compliance and regulatory track record (SOC2, FedRAMP, ISO 27001)",
+      "Large installed base of 8,000+ enterprise customers",
+      "Comprehensive professional services organisation"
+    ],
+    "weaknesses": [
+      "Declining market share as cloud-native competitors gain ground",
+      "Heavy reliance on on-premises revenue which is shrinking",
+      "Product portfolio complexity — over 200 distinct SKUs",
+      "Slower to adopt generative AI capabilities"
+    ],
+    "recent_activities": [
+      "Divested non-core analytics division for $420M",
+      "Announced 18-month AI transformation roadmap",
+      "Lost major federal contract to TechAlpha Corp",
+      "Partnered with AWS to co-sell hybrid cloud offerings"
+    ],
+    "pricing": {
+      "entry_plan": "$799/month",
+      "professional_plan": "$2,499/month",
+      "enterprise_plan": "Custom — avg $120,000/year"
+    },
+    "key_products": ["Apex FinanceAI", "Apex Compliance Suite", "Apex DataBridge"],
+    "growth_strategy": "Defend existing enterprise base while pivoting to AI-augmented services"
+  },
+  {
+    "id": 4,
+    "name": "CloudSpark Inc",
+    "market_share": 14.6,
+    "market_share_prev": 12.1,
+    "founded": 2018,
+    "hq": "Seattle, WA",
+    "revenue_bn": 3.9,
+    "employees": 4800,
+    "strengths": [
+      "Fastest growing player — 20.7% share gain in 12 months",
+      "Native multi-cloud architecture with zero lock-in",
+      "Transparent usage-based pricing model",
+      "Strong NPS score of 72 (industry average: 41)"
+    ],
+    "weaknesses": [
+      "Limited brand recognition outside technology sector",
+      "Thin professional services bench",
+      "Not yet profitable — burning $80M/quarter",
+      "Limited geographic coverage (US and EU only)"
+    ],
+    "recent_activities": [
+      "Crossed 1,000 paying enterprise customers milestone",
+      "Launched CloudSpark Marketplace with 300+ pre-built AI integrations",
+      "IPO filed — targeting $4-5B valuation",
+      "Won Gartner Cool Vendor award for AI Infrastructure 2024"
+    ],
+    "pricing": {
+      "entry_plan": "$199/month",
+      "professional_plan": "$899/month",
+      "enterprise_plan": "Usage-based — avg $38,000/year"
+    },
+    "key_products": ["SparkEngine", "SparkDeploy", "SparkOps"],
+    "growth_strategy": "Disrupt incumbents with transparent pricing and developer-first experience"
+  },
+  {
+    "id": 5,
+    "name": "Meridian AI Labs",
+    "market_share": 9.4,
+    "market_share_prev": 8.7,
+    "founded": 2020,
+    "hq": "Boston, MA",
+    "revenue_bn": 1.8,
+    "employees": 1900,
+    "strengths": [
+      "Cutting-edge research team — 12 NeurIPS/ICML papers in 2024",
+      "Specialised healthcare and life sciences AI models",
+      "Strong academic partnerships (MIT, Stanford, Harvard)",
+      "Rapid prototyping capabilities for custom model development"
+    ],
+    "weaknesses": [
+      "Smallest market share among tracked competitors",
+      "Limited go-to-market resources",
+      "Narrow focus reduces total addressable market",
+      "Pre-revenue phase for several key products"
+    ],
+    "recent_activities": [
+      "Published breakthrough paper on medical imaging AI achieving radiologist-level accuracy",
+      "Secured $200M Series B from a16z and Andreessen Horowitz",
+      "Signed first enterprise deal with Mayo Clinic",
+      "Launched Meridian BioLLM for clinical trial analysis"
+    ],
+    "pricing": {
+      "entry_plan": "$399/month",
+      "professional_plan": "$1,499/month",
+      "enterprise_plan": "Custom — avg $70,000/year"
+    },
+    "key_products": ["MeridianBioLLM", "ClinicalInsight", "PathologyAI"],
+    "growth_strategy": "Own the healthcare AI vertical before expanding to adjacent life sciences markets"
+  }
+]

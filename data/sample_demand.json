@@ -1,0 +1,76 @@
+[
+  {"category": "AI Software", "region": "North America", "quarter": "Q1 2024", "demand_index": 74.2, "yoy_change": 18.4},
+  {"category": "AI Software", "region": "North America", "quarter": "Q2 2024", "demand_index": 80.6, "yoy_change": 21.2},
+  {"category": "AI Software", "region": "North America", "quarter": "Q3 2024", "demand_index": 88.1, "yoy_change": 23.7},
+  {"category": "AI Software", "region": "North America", "quarter": "Q4 2024", "demand_index": 94.8, "yoy_change": 25.1},
+
+  {"category": "AI Software", "region": "Europe", "quarter": "Q1 2024", "demand_index": 58.3, "yoy_change": 14.2},
+  {"category": "AI Software", "region": "Europe", "quarter": "Q2 2024", "demand_index": 63.7, "yoy_change": 16.8},
+  {"category": "AI Software", "region": "Europe", "quarter": "Q3 2024", "demand_index": 69.4, "yoy_change": 18.1},
+  {"category": "AI Software", "region": "Europe", "quarter": "Q4 2024", "demand_index": 75.2, "yoy_change": 19.4},
+
+  {"category": "AI Software", "region": "Asia-Pacific", "quarter": "Q1 2024", "demand_index": 65.1, "yoy_change": 22.3},
+  {"category": "AI Software", "region": "Asia-Pacific", "quarter": "Q2 2024", "demand_index": 72.8, "yoy_change": 25.6},
+  {"category": "AI Software", "region": "Asia-Pacific", "quarter": "Q3 2024", "demand_index": 81.3, "yoy_change": 28.9},
+  {"category": "AI Software", "region": "Asia-Pacific", "quarter": "Q4 2024", "demand_index": 89.7, "yoy_change": 31.2},
+
+  {"category": "Cloud Infrastructure", "region": "North America", "quarter": "Q1 2024", "demand_index": 88.4, "yoy_change": 11.2},
+  {"category": "Cloud Infrastructure", "region": "North America", "quarter": "Q2 2024", "demand_index": 91.6, "yoy_change": 12.1},
+  {"category": "Cloud Infrastructure", "region": "North America", "quarter": "Q3 2024", "demand_index": 95.2, "yoy_change": 13.4},
+  {"category": "Cloud Infrastructure", "region": "North America", "quarter": "Q4 2024", "demand_index": 98.7, "yoy_change": 14.0},
+
+  {"category": "Cloud Infrastructure", "region": "Europe", "quarter": "Q1 2024", "demand_index": 72.1, "yoy_change": 9.8},
+  {"category": "Cloud Infrastructure", "region": "Europe", "quarter": "Q2 2024", "demand_index": 75.4, "yoy_change": 10.3},
+  {"category": "Cloud Infrastructure", "region": "Europe", "quarter": "Q3 2024", "demand_index": 79.8, "yoy_change": 11.6},
+  {"category": "Cloud Infrastructure", "region": "Europe", "quarter": "Q4 2024", "demand_index": 83.5, "yoy_change": 12.2},
+
+  {"category": "Cloud Infrastructure", "region": "Asia-Pacific", "quarter": "Q1 2024", "demand_index": 79.3, "yoy_change": 15.7},
+  {"category": "Cloud Infrastructure", "region": "Asia-Pacific", "quarter": "Q2 2024", "demand_index": 84.1, "yoy_change": 17.2},
+  {"category": "Cloud Infrastructure", "region": "Asia-Pacific", "quarter": "Q3 2024", "demand_index": 89.6, "yoy_change": 19.1},
+  {"category": "Cloud Infrastructure", "region": "Asia-Pacific", "quarter": "Q4 2024", "demand_index": 94.8, "yoy_change": 20.8},
+
+  {"category": "Cybersecurity", "region": "North America", "quarter": "Q1 2024", "demand_index": 81.2, "yoy_change": 8.4},
+  {"category": "Cybersecurity", "region": "North America", "quarter": "Q2 2024", "demand_index": 84.6, "yoy_change": 9.1},
+  {"category": "Cybersecurity", "region": "North America", "quarter": "Q3 2024", "demand_index": 96.8, "yoy_change": 18.2},
+  {"category": "Cybersecurity", "region": "North America", "quarter": "Q4 2024", "demand_index": 101.3, "yoy_change": 20.1},
+
+  {"category": "Cybersecurity", "region": "Europe", "quarter": "Q1 2024", "demand_index": 68.4, "yoy_change": 7.2},
+  {"category": "Cybersecurity", "region": "Europe", "quarter": "Q2 2024", "demand_index": 71.9, "yoy_change": 8.3},
+  {"category": "Cybersecurity", "region": "Europe", "quarter": "Q3 2024", "demand_index": 82.4, "yoy_change": 16.4},
+  {"category": "Cybersecurity", "region": "Europe", "quarter": "Q4 2024", "demand_index": 87.6, "yoy_change": 18.7},
+
+  {"category": "Cybersecurity", "region": "Asia-Pacific", "quarter": "Q1 2024", "demand_index": 55.3, "yoy_change": 12.1},
+  {"category": "Cybersecurity", "region": "Asia-Pacific", "quarter": "Q2 2024", "demand_index": 58.9, "yoy_change": 13.4},
+  {"category": "Cybersecurity", "region": "Asia-Pacific", "quarter": "Q3 2024", "demand_index": 68.7, "yoy_change": 22.8},
+  {"category": "Cybersecurity", "region": "Asia-Pacific", "quarter": "Q4 2024", "demand_index": 73.2, "yoy_change": 24.6},
+
+  {"category": "E-commerce Platform", "region": "North America", "quarter": "Q1 2024", "demand_index": 76.4, "yoy_change": 6.2},
+  {"category": "E-commerce Platform", "region": "North America", "quarter": "Q2 2024", "demand_index": 78.9, "yoy_change": 7.1},
+  {"category": "E-commerce Platform", "region": "North America", "quarter": "Q3 2024", "demand_index": 82.3, "yoy_change": 8.4},
+  {"category": "E-commerce Platform", "region": "North America", "quarter": "Q4 2024", "demand_index": 98.7, "yoy_change": 14.2},
+
+  {"category": "E-commerce Platform", "region": "Europe", "quarter": "Q1 2024", "demand_index": 61.2, "yoy_change": 5.4},
+  {"category": "E-commerce Platform", "region": "Europe", "quarter": "Q2 2024", "demand_index": 63.8, "yoy_change": 6.2},
+  {"category": "E-commerce Platform", "region": "Europe", "quarter": "Q3 2024", "demand_index": 67.4, "yoy_change": 7.8},
+  {"category": "E-commerce Platform", "region": "Europe", "quarter": "Q4 2024", "demand_index": 82.6, "yoy_change": 12.8},
+
+  {"category": "E-commerce Platform", "region": "Asia-Pacific", "quarter": "Q1 2024", "demand_index": 91.4, "yoy_change": 9.8},
+  {"category": "E-commerce Platform", "region": "Asia-Pacific", "quarter": "Q2 2024", "demand_index": 94.7, "yoy_change": 10.4},
+  {"category": "E-commerce Platform", "region": "Asia-Pacific", "quarter": "Q3 2024", "demand_index": 98.3, "yoy_change": 11.9},
+  {"category": "E-commerce Platform", "region": "Asia-Pacific", "quarter": "Q4 2024", "demand_index": 116.2, "yoy_change": 17.6},
+
+  {"category": "Fintech Solutions", "region": "North America", "quarter": "Q1 2024", "demand_index": 69.8, "yoy_change": 7.4},
+  {"category": "Fintech Solutions", "region": "North America", "quarter": "Q2 2024", "demand_index": 72.4, "yoy_change": 8.2},
+  {"category": "Fintech Solutions", "region": "North America", "quarter": "Q3 2024", "demand_index": 76.1, "yoy_change": 9.1},
+  {"category": "Fintech Solutions", "region": "North America", "quarter": "Q4 2024", "demand_index": 79.8, "yoy_change": 9.8},
+
+  {"category": "Fintech Solutions", "region": "Europe", "quarter": "Q1 2024", "demand_index": 62.3, "yoy_change": 6.8},
+  {"category": "Fintech Solutions", "region": "Europe", "quarter": "Q2 2024", "demand_index": 65.1, "yoy_change": 7.4},
+  {"category": "Fintech Solutions", "region": "Europe", "quarter": "Q3 2024", "demand_index": 68.7, "yoy_change": 8.2},
+  {"category": "Fintech Solutions", "region": "Europe", "quarter": "Q4 2024", "demand_index": 72.4, "yoy_change": 8.9},
+
+  {"category": "Fintech Solutions", "region": "Asia-Pacific", "quarter": "Q1 2024", "demand_index": 74.2, "yoy_change": 11.3},
+  {"category": "Fintech Solutions", "region": "Asia-Pacific", "quarter": "Q2 2024", "demand_index": 78.6, "yoy_change": 12.7},
+  {"category": "Fintech Solutions", "region": "Asia-Pacific", "quarter": "Q3 2024", "demand_index": 83.1, "yoy_change": 14.2},
+  {"category": "Fintech Solutions", "region": "Asia-Pacific", "quarter": "Q4 2024", "demand_index": 87.9, "yoy_change": 15.6}
+]
